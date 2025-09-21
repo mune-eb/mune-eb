@@ -9,7 +9,6 @@
 ---
 
 - 🌱 Currently working on **LLM orchestration, AI agent frameworks, and RAG pipelines**
-- 🔭 Leading AI initiatives at **Progressive Technologies**
 - ⚡ Fun fact: I build **AI systems that think, reason, and collaborate like teams**
 
 📫 Reach me at **muneebahmed450@gmail.com**
